@@ -1,1 +1,1 @@
-Um projeto de HTML básico para treinar o box model, utilização de divs e utilização de imagens.
+Um projeto básico de HTML e CSS para treinar o box model, utilização de divs e utilização de imagens.
